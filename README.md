@@ -1,0 +1,1 @@
+The odin project recomended that tuturial for Regular Expressions so this repo will be for that ! 
